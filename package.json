@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "name": "overage-api",
+  "description": "Api written in Node JS to verify the user is over 18+ years old",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udla-beltran/overage-api.git"
+  },
+  "keywords": [
+    "api",
+    "over",
+    "age",
+    "18",
+    "node",
+    "js"
+  ],
+  "author": "Juan Pablo Beltran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udla-beltran/overage-api/issues"
+  },
+  "homepage": "https://github.com/udla-beltran/overage-api#readme"
+}
